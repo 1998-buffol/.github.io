@@ -1,0 +1,466 @@
+{
+  "settings": {
+    "name": "Грузчики Киев | Подача за час. звоните!",
+    "currentPage": "gruzchiki-Kiev-24@.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#232323",
+        "#282828"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.4",
+    "siteFonts": [],
+    "favicon": "",
+    "noImageResize": "",
+    "uniqCompNum": 39,
+    "versionPublish": "4.10.4",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "gruzchiki-Kiev-24@.html": {
+      "settings": {
+        "main": true,
+        "title": "Buffalo.gruzchiki-Kiev-24",
+        "meta_descr": "Услуги грузчиков в Киеве, квартирные и офисные переезды, подъем строительного материала, вывоз строительного мусора, сборка и разборка мебели.",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "text-align": "right"
+            },
+            ".lead": {
+              "text-align": "left",
+              "color": "#efefef",
+              "font-size": "8px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/foto-700x195.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Грузчики в Киеве|Подача за час. Звоните",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-j"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/imgpreview-1-254x156.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imgpreview-1-254x156-254x156.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/f-20100531-18073-20132303083627-800x532.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/f-20100531-18073-20132303083627-800x532-800x532.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/imgpreview-400x240.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/imgpreview-400x240-400x240.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/s4-370x0-99b-370x266.png",
+                "thumb": "@PROJECT_PATH@/assets/images/s4-370x0-99b-370x266-370x266.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Тема"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-13"
+        },
+        {
+          "_inherit": "pricing-table1",
+          "_styles": {
+            ".mbr-plan-header, .mbr-plan-body": {
+              "background-color": "#f4f4f4"
+            },
+            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
+              "color": "#28262b"
+            },
+            ".mbr-plan": {
+              "border-color": "#e8e8e8"
+            },
+            ".mbr-plan .list-group-item": {
+              "border-color": "#cfcfcf"
+            },
+            "DIV": {
+              "color": "#232323",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "font-size": "21px"
+            },
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "hidden",
+            "secondType": "hidden",
+            "thirdType": "hidden",
+            "fourthType": "",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "description1": "More details",
+          "description2": "More details",
+          "description3": "More details",
+          "description4": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">DEM3</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "title": "Грузчики Киеве. Недорого Почасовая оплата – такое бывает!",
+          "subtitle": "",
+          "title1": "STANDARD",
+          "title2": "BUSINESS",
+          "title3": "PREMIUM",
+          "title4": "Грузчики",
+          "subtitle1": "Description",
+          "subtitle2": "Description",
+          "subtitle3": "Description",
+          "subtitle4": "цены за час.",
+          "label1": "HOT!",
+          "label2": "HOT!",
+          "label3": "HOT!",
+          "label4": "HOT!",
+          "currency1": "$",
+          "currency2": "$",
+          "currency3": "$",
+          "currency4": "",
+          "price1": "0",
+          "price2": "0",
+          "price3": "0",
+          "price4": "100 грн",
+          "period1": "/mo.",
+          "period2": "/mo.",
+          "period3": "/mo.",
+          "period4": "/час.",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
+          "list4": "<b>Цены на услуги грузчиков в Киеве</b><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"></li></ul><div>\n</div><div><b>&nbsp;\n</b></div><div>\n</div><div><b>Наименование работ\n</b></div><div><b>Стоимость\n</b></div><div><b>&nbsp; &nbsp; Погрузочно-разгрузочные работы (минимальный заказ 4 часа)\t\n</b></div><div><b>&nbsp; &nbsp;100 грн/час\n</b></div><div><b><br></b></div><div><b>&nbsp; &nbsp; Подсобный рабочий (минимальный заказ 4 часа)\t\n</b></div><div><b>&nbsp;110 грн/час</b></div>",
+          "_name": "pricing-table2",
+          "_anchor": "pricing-table2-x"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text": "Вечные командировки налагают свой отпечаток на мою жизнь. Постоянные переезды, постоянная перевозка имущества и регулярные поиски информации на тему: « Грузчики Киеве. Недорого почасовая оплата ». Наша столица — город огромных расстояний, самому без помощи профессиональных перевозчиков не справиться. К тому же нередко поджимают сроки. Давно понял, что при выборе грузчиков важна цена. Переплачивать желания нет. А если еще и возможность отсутствует, то бросать деньги на ветер рука не поднимается.\n<div>\n</div><div>За несколько лет проживания в &nbsp; &nbsp;Киеве&nbsp;столкнуться с переездами пришлось сотню раз. Поэтому и обращений в разные компании было немало. Начитался разных объявлений типа: « Грузчики Недорого почасовая оплата ». И поверьте, слово «недорого» все компании понимают по-разному.\n&nbsp;</div><div>\n</div><div>Кто-то камуфлирует итоговую стоимость, называя базовые расценки. А потом в ходе работы возникают неприятные ситуации, когда почасовая оплата обрастает наценками, например, за каждый этаж или за удаленность объекта. А неаккуратность! Это же бич столичных муверов. Вы искали информацию: « Грузчики Киев Недорого почасовая оплата ». И хотите, чтобы вам не разбили посуду и не поцарапали шкаф?!  Выбирайте что-то одно: или дешево, или качественно… До поры до времени я считал определенной нормой.</div>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-11",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "text1": "Заказать грузчиков в Киеве можно с 8.00 до 22.00\n<div>Минимальная оплата за работу 1 грузчика 200 грн., до 2 часов \n</div><div>Прибытие бригады на Ваш адрес в Киеве до 45 минут</div><div>Грузчики с гражданством УКР</div><div>Разборка и сборка мебели 120 грн/час\n</div><div>Без поэтажной оплаты до 1 этажа&nbsp;</div>",
+          "text2": "Грузчики Киеве недорого почасовая оплата \n<div>Минимальная оплата работы 2 часа \n</div><div>Разгрузка и погрузка автомобилей\n</div><div>Вынос строительного мусора\n</div><div>Вывоз строительного мусора из офиса и квартиры \n</div><div>Подъем строительных материалов на этаж\n</div><div>Работаем круглосуточно без выходных!</div>",
+          "text3": "<p>Офисный переезд с грузчиками </p><p>110 грн/ч<div>Цена одного предмета 10 грн\\ этаж</div><div>предмет больше 50 кг цена 2 грн\\кг</div><div>Заключаем долгосрочные договоры</div></p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-10",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "text-align": "center",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "80px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.25rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.354rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "A": {
+              "font-size": "80px"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "1.25",
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">НОМЕР ТЕЛЕФОНА</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">+380960418300</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\"></a></li>",
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true,
+              "color": "#ffffff"
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Buffalo</a>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-o"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7e9b9f",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "Украина, Киев, Оболонь",
+              "placeId": "ChIJM2xXaxTS1EARpVhV5sDrDfE",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "Emeil: buffalo.2019@list.ru",
+          "text2": "<p>номер тел</p><p>Kievstar: +380960418300</p><p>Vodafon: +380950253681</p>",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-z"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#232323",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Адресса</b></span></font><br>Украина. Киев, Оболоньський район",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Контакты</b></span></font><br>\nEmail:&nbsp;: buffalo.2019@list.ru<br>Kievstar: +380960418300<br>Vodafon: +380950253681",
+          "text3": "аши услуги:\n<br>-грзузчики от 1 до 20 чл.<br>- профессиональные, трезвые, крепкие грузчики.\n<br>- сборка-разборка, упаковка мебели.\n<br>- выгрузка фур, вагонов, контейнеров.\n<br>- выгрузка, подъем стройматериалов.\n<br>Для переноса тяжелых или габаритных предметов мы\n<br>используем специальные такелажные ремни.",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-12",
+          "_styles": {
+            "SPAN": {
+              "font-size": "60px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
